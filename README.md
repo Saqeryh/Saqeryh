@@ -50,9 +50,7 @@
 </details>
 
 ---
-
 ### 📊 إحصائيات جيتهب | GitHub Stats
-
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Saqeryh&show_icons=true&theme=radical" alt="GitHub Stats" height="180" />
@@ -62,7 +60,6 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saqeryh&theme=radical" alt="GitHub Streak" />
 </p>
-
 ---
 
 <p align="center">
