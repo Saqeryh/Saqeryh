@@ -4,66 +4,6 @@
 <!-- يمكنك تغيير نوع الترويسة أو الألوان من هنا، فقط استبدل اسم المستخدم في الرابط أدناه -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Bushra%20AlSaqer&fontSize=40" alt="Header" />
   <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Bushra Al-Saqer | Portfolio</title>
-    <link rel="icon" type="favicon.png" href="favicon.png">
-    <script src="https://cdn.tailwindcss.com"></script>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Cairo:wght@300;400;600;700;800&family=Plus+Jakarta+Sans:wght@300;400;500;600;700;800&family=Space+Grotesk:wght@400;500;600;700&display=swap" rel="stylesheet">
-
-    <script>
-        tailwind.config = {
-            theme: {
-                extend: {
-                    fontFamily: {
-                        sans: ['Plus Jakarta Sans', 'Cairo', 'sans-serif'],
-                        mono: ['Space Grotesk', 'Cairo', 'sans-serif'],
-                    },
-                    colors: {
-                        cyber: {
-                            bg: '#0B0F19',
-                            card: '#131A2C',
-                            border: '#1E293B',
-                            green: '#10B981',
-                            blue: '#3B82F6',
-                            glowGreen: 'rgba(16, 185, 129, 0.15)',
-                            glowBlue: 'rgba(59, 130, 246, 0.15)',
-                        }
-                    }
-                }
-            }
-        }
-    </script>
-    <style>
-        .glow-green:hover {
-            box-shadow: 0 0 25px var(--cyber-glowGreen);
-            border-color: #10B981;
-        }
-        .glow-blue:hover {
-            box-shadow: 0 0 25px var(--cyber-glowBlue);
-            border-color: #3B82F6;
-        }
-        ::-webkit-scrollbar {
-            width: 8px;
-        }
-        ::-webkit-scrollbar-track {
-            background: #0B0F19;
-        }
-        ::-webkit-scrollbar-thumb {
-            background: #1E293B;
-            border-radius: 4px;
-        }
-        ::-webkit-scrollbar-thumb:hover {
-            background: #3B82F6;
-        }
-        body {
-            transition: direction 0.3s ease, text-align 0.3s ease;
-        }
-    </style>
-</head>
 </div>
 
 ### 👤 نبذة عني | About Me
